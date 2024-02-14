@@ -1,7 +1,7 @@
 # YouTube LLM Trainer Application README
 
 ## Overview
-The YouTube Trainer Application automates the creation of training datasets for language models. It downloads YouTube videos, extracts audio, transcribes it using OpenAI's Whisper models, and processes the transcripts into structured training data for machine learning models, with a focus on function calling.
+The YouTube LLM Trainer Application automates the creation of training datasets for language models. It downloads YouTube videos, extracts audio, transcribes it using OpenAI's Whisper models, and processes the transcripts into structured training data for machine learning models, with a focus on function calling.
 
 ## Prerequisites
 - Tested on Python 3.11
