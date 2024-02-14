@@ -1,0 +1,40 @@
+
+json
+python-dotenv
+transformers
+re
+aiofiles
+nest_asyncio
+asyncio
+pytube
+moviepy
+whisper
+torch
+wandb
+gradio
+datasets
+trl
+
+# The following packages are installed directly from GitHub repositories
+# and may need to be installed separately using pip commands provided.
+# - bitsandbytes
+# - huggingface/transformers
+# - huggingface/peft
+# - huggingface/accelerate
+
+# The following packages have been requested to be installed via pip,
+# which may not be necessary for inclusion in the requirements.txt
+# as they are part of the standard library or will be installed as dependencies.
+# - os
+# - json
+# - subprocess
+# - platform
+# - warnings
+
+# For the following, the package name is different from the import statement:
+# asyncio is part of the Python standard library, no need to include it in the requirements.
+# aiohttp is required for aiofiles to work with HTTP requests.
+# sentencepiece may be required by some transformers but is not included.
+# einops is a dependency for tensor operations but is not included.
+
+aiohttp
