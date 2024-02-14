@@ -17,6 +17,7 @@ Before you begin, ensure to follow all the setup steps in the main repository's 
 - Processes text data for training language models.
 - Configurable data chunking for model training optimization.
 - Training session monitoring with WandB.
+- Any file located in the transcription folder can be used to create datasets.
 
 ## Usage Instructions
 1. **Initial Configuration**: At the top of the notebook, set your configuration variables. This includes paths, model names, and data chunk sizes.

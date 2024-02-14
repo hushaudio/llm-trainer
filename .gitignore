@@ -4,10 +4,7 @@ __pycache__/
 *$py.class
 
 llama.cpp/
-data/
 wandb/
-audio/
-output/
 *.safetensors
 *.checkpoint
 *.mp3
@@ -21,7 +18,6 @@ output/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
